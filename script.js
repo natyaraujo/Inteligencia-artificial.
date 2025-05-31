@@ -34,10 +34,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "A escola oferece um curso sobre como utilizar IA de forma ética, responsável e segura. Você tem a oportunidade de participar. O que decide? ",
         alternativas: [
-            "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-            "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial."
+            "Sim! Quero entender mais sobre como usar essa tecnologia com responsabilidade.",
+            "Não me interesso muito, pois acho que não vou usar IA com frequência no meu dia a dia."
         ]
     },
 ];
