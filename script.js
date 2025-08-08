@@ -11,10 +11,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso é incrível! ",
-                afirmacao: "Isso é invasivo!"
+                afirmacao: "Isso é incrível!"
             },
             {
-                texto: "Isso é incrível!",
+                texto: "Isso é invasivo!",
                 afirmacao: "Isso é invasivo"
             }
         ]
@@ -24,10 +24,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Uau, um chatbot da era dos '60!",
-                afirmacao: "Só um robô antigo?"
+                afirmacao: "Uau, um chatbot da era dos '60!"
             },
             {
-                texto: "Uau, um chatbot da era dos '60!",
+                texto: "Só um robô antigo?",
                 afirmacao: "Só um robô antigo?"
             }
         ]
