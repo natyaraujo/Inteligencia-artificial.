@@ -37,10 +37,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Interessante saber a origem do termo!",
-                afirmacao: "Isso não impacta a tecnologia atual."
+                afirmacao: "Interessante saber a origem do termo!"
             },
             {
-                texto: "Interessante saber a origem do termo!",
+                texto: "Isso não impacta a tecnologia atual.",
                 afirmacao: "Isso não impacta a tecnologia atual."
             }
         ]
@@ -50,10 +50,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Que legal imaginar conversar com uma IA indistinguível de um humano!",
-                afirmacao: "Isso parece assustador."
+                afirmacao: "Que legal imaginar conversar com uma IA indistinguível de um humano!"
             },
             {
-                texto: "Que legal imaginar conversar com uma IA indistinguível de um humano!",
+                texto: "Isso parece assustador.",
                 afirmacao: "Isso parece assustador."
             }
         ]
@@ -62,12 +62,12 @@ const perguntas = [
         enunciado: "Por fim, sua escola apresenta ferramentas que usam IA para gamificação e educação, como Kahoot! e Duolingo. O que você pensa?",
         alternativas: [
             {
-                texto: "Adoro, deixa aprender mais divertido!",
-                afirmacao: "Prefiro estudos tradicionais. "
+                texto: "Prefiro estudos tradicionais.",
+                afirmacao: "Prefiro estudos tradicionais."
             },
             {
                 texto: "Adoro, deixa aprender mais divertido!",
-                afirmacao: "Prefiro estudos tradicionais. "
+                afirmacao: "Adoro, deixa aprender mais divertido!"
             }
         ]
     },
