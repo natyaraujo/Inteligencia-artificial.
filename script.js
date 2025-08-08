@@ -41,7 +41,7 @@ const perguntas = [
             },
             {
                 texto: "Interessante saber a origem do termo!",
-                afirmacao: "Interessante saber a origem do termo!"
+                afirmacao: "Isso não impacta a tecnologia atual."
             }
         ]
     },
